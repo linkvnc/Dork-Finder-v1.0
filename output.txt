@@ -1,0 +1,98 @@
+[+] https://stackoverflow.com/questions/63311921/how-can-i-access-the-category-php-page-in-wordpress - Vulnerable to SQLi
+[!] https://dykerheightschristmaslights.com/productdetails.php?id=28 - Not vulnerable
+[!] https://www.littlesun.com.au/category.php?id=76&srsltid=AfmBOopyHdl9Q2go3TfFolZB1JjijUdernq93Asu1pYpSuUz-6A3jNe3 - Not vulnerable
+[+] https://www.freelancer.com/job-search/admineditproductfields-php-intprodid-au/ - Vulnerable to SQLi
+[!] https://www.beltronics.com/store/cart.php.02072014 - Not vulnerable
+[!] http://www.maxtuning.md/controls/basket.php?Action=AddOne&ID=7261&Price=2850&Aster=%2A&RURL=https://honguyentrungnghia.com/2020/03/26/lien-minh/ - Not vulnerable
+[+] https://stackoverflow.com/questions/63311921/how-can-i-access-the-category-php-page-in-wordpress - Vulnerable to SQLi
+[+] https://stackoverflow.com/questions/63311921/how-can-i-access-the-category-php-page-in-wordpress - Vulnerable to SQLi
+[+] https://stackoverflow.com/questions/63311921/how-can-i-access-the-category-php-page-in-wordpress - Vulnerable to SQLi
+[!] https://clients.hostgeek.com.au/cart.php?a=add&pid=155 - Not vulnerable
+[!] https://domainking.com.au/cart.php?a=view - Not vulnerable
+[!] https://www.domainking.com.au/cart.php - Not vulnerable
+[!] https://www.atogt.com/askoscar/nominations-by-category.php?cat=music-scoring&origin=noms-by-cat&yr=1 - Not vulnerable
+[!] https://www.smartartist.com.au/cart.php?a=add&domain=register - Not vulnerable
+[!] https://clients.hostgeek.com.au/cart.php?a=add&pid=155 - Not vulnerable
+[!] https://www.littlesun.com.au/category.php?id=76&srsltid=AfmBOoqVwNSFY1eYTHE0ui1z3YxKC2gjWgvVdRXmrOMpEFA5jWR7MX2Z - Not vulnerable
+[+] https://stackoverflow.com/questions/63311921/how-can-i-access-the-category-php-page-in-wordpress - Vulnerable to SQLi
+[!] https://www.colourfulzebra.com.au/category.php?id=35 - Not vulnerable
+[+] https://stackoverflow.com/questions/63311921/how-can-i-access-the-category-php-page-in-wordpress - Vulnerable to SQLi
+[+] https://stackoverflow.com/questions/63311921/how-can-i-access-the-category-php-page-in-wordpress - Vulnerable to SQLi
+[!] https://sailboatsales.com/products/product-category.php?id=1 - Not vulnerable
+[!] https://www.colourfulzebra.com.au/category.php?id=35 - Not vulnerable
+[!] https://xoops.org/modules/publisher/category.php?categoryid=10 - Not vulnerable
+[!] https://code.adonline.id.au/category/php/ - Not vulnerable
+[!] https://code.adonline.id.au/category/php/ - Not vulnerable
+[+] https://stackoverflow.com/questions/63311921/how-can-i-access-the-category-php-page-in-wordpress - Vulnerable to SQLi
+[!] https://www.colourfulzebra.com.au/category.php?id=35 - Not vulnerable
+[!] https://code.adonline.id.au/category/php/ - Not vulnerable
+[!] https://xoops.org/modules/publisher/category.php?categoryid=10 - Not vulnerable
+[!] https://xoops.org/modules/publisher/category.php?categoryid=10 - Not vulnerable
+[!] https://surgicalhouse.com.au/Category.php?id=CPHOPHTH&srsltid=AfmBOooYkPMWLcxk76wQbcjv0UsjWQVtGPADE0tATgAk0_dk5BucqU8o - Not vulnerable
+[!] https://xoops.org/modules/publisher/category.php?categoryid=10 - Not vulnerable
+[!] https://www.tfh.com.sg/products-category.php?cat_id=382 - Not vulnerable
+[!] https://stevebay.org/category.php?categoryID=5862 - Not vulnerable
+[!] https://www.mepps.com/products/testimonials/view-category.php?id=14&display=location&title=Australia - Not vulnerable
+[!] https://www.businessdirectorybd.com/business-category.php?page=21&cat_id=204 - Not vulnerable
+[!] https://dev1.rpf.usdigitalpartners.net/client/gorilla-au/-/blob/d1572513950d5173568f6b3e05655227bbdd4c9e/wp-includes/category.php - Not vulnerable
+[!] https://www.paytons.com.au/category.php?id_category=513 - Not vulnerable
+[!] https://shop.spar.com.mt/category.php?categoryid=GRP-G0177 - Not vulnerable
+[!] https://www.littlesun.com.au/category.php?id=83&srsltid=AfmBOopjvM8rgyBlEwk2L0QDai-o4I3sPeyjxYs5ck6HunGktzbxgtbJ - Not vulnerable
+[!] https://milieux.com/category.php?catid=25 - Not vulnerable
+[!] https://www.cwsbytemark.com/buy/checkout.php - Not vulnerable
+[!] https://stevebay.org/category.php?categoryID=5862 - Not vulnerable
+[!] https://policies.westernsydney.edu.au/document/status-and-details.php?id=304 - Not vulnerable
+[!] https://www.roberthalf.com/au/en/job-details/php-developer - Not vulnerable
+[!] https://www.motoculture-jardin.com/forum/detail.php?forumid=1&id=34472 - Not vulnerable
+[!] https://policies.westernsydney.edu.au/document/status-and-details.php?id=304 - Not vulnerable
+[!] https://www.emsasia.org/content.php?id=6&catid=6&subcatid=0 - Not vulnerable
+[!] https://www.roberthalf.com/au/en/job-details/php-developer - Not vulnerable
+[!] https://server.domainking.com.au/index.php?rp=/store/cpanelseo - Not vulnerable
+[!] http://wywid.com/index.php - Not vulnerable
+[!] https://preiswertepc.de//eshop.php?eslink=1&action=page&page_type=imprint - Not vulnerable
+[!] http://www.dovemencare.com.au/index.php/fathers - Not vulnerable
+[!] https://ibid.illinois.gov/item.php?id=382412 - Not vulnerable
+[!] http://www.aozhuanyun.com/index.php/goods/Index/golink?url=http%3A%2F%2Fwww.activeskin.com.au%2F - Not vulnerable
+[!] https://www.mrcommercialfurniture.com.au/product-item.php?item=321 - Not vulnerable
+[!] https://maestronet.com/forum/index.php?/profile/2355-warrior/content/page/2/&type=forums_topic_post - Not vulnerable
+[!] https://www.patagonjournal.com/index.php?option=com_mtree&task=visit&link_id=109&Itemid=114&lang=en - Not vulnerable
+[!] http://www.aozhuanyun.com/index.php/goods/Index/golink?url=http%3A%2F%2Fwww.blackmores.com.au - Not vulnerable
+[!] https://www.ihpba.org/myHPB/video-masterclass/item.php?id=874 - Not vulnerable
+[!] https://homecontents.com.au/index.php?c=web_cancel&profile=aami_l_a - Not vulnerable
+[!] https://www.reefcentral.com/forums/archive/index.php/t-607477-p-5.html - Not vulnerable
+[!] https://www.shiridiamonds.com/AU/Item.php?Style=DP935&srsltid=AfmBOorQyeGOtbHqL5wNUmnILm0YurATd06FPNqXfQtsqic7KXRTNSqZ - Not vulnerable
+[!] http://mountaincreekgamepark.com/index.php/safaris/7.html - Not vulnerable
+[!] https://newsletter.finact.net.au/index.php?option=com_acymailing&ctrl=url&subid=&urlid=1658&mailid=99&Itemid=122 - Not vulnerable
+[!] https://lucerna.exeter.ac.uk/collection/index-item.php?language=EN&id=2500003 - Not vulnerable
+[!] https://www.snapfrozen.com.au/clients/index.php?rp=/store/google-g-suite/google-workspace-business-starter - Not vulnerable
+[!] http://www.oscommerce-fr.info/forum/lofiversion/index.php?t59693.html - Not vulnerable
+[!] https://www.patagonjournal.com/index.php?option=com_mtree&task=visit&link_id=109&Itemid=114&lang=en - Not vulnerable
+[!] https://seagrant.uaf.edu/bookstore/pubs/item.php?id=11721 - Not vulnerable
+[!] https://www.travelfilmarchive.com/item.php?id=11755&keywords=Three+Sisters+Europe+Germany++Oberammergau+++Burton+Holmes+Oberammergau%2C+Bavaria%2C+Germany%0D%0AThree+young+women+in+identical+traditional+Bavarian+clothing+sitting+down+on+bench+outside+window+and+petting+a+cat.+Portrait+of+the+women+smiling+at+camera.%0D%0A%0D%0A++35mm+B%2FW+1910+1910s&startrow=30 - Not vulnerable
+[!] https://www.modified-shop.org/forum/index.php?topic=24258.0 - Not vulnerable
+[!] https://alacarat.com/lander/alacarat.com/index.php?_=%2Fau%2Fapple-watch-se%2F%23M9MUnYJq3eN2d%2FivGT61e2NAD%2BU7 - Not vulnerable
+[!] https://github.com/redhat-gpte-devopsautomation/cotd/blob/master/item.php - Not vulnerable
+[!] https://alifedesign.com.au/shop/item.php?it_id=1578644027 - Not vulnerable
+[+] https://stackoverflow.com/questions/54789305/check-next-value-in-array-if-matches-delete-next-item-php - Vulnerable to SQLi
+[!] https://clients.domainhostingshop.com.au/index.php/store/specialised-hosting-plans/spiffy-blog-plan - Not vulnerable
+[!] http://www.rcfc.org.au/index.php?option=com_acymailing&ctrl=url&subid=&urlid=163&mailid=280 - Not vulnerable
+[!] https://store.mycochlear.com/store/index.php/aub2c - Not vulnerable
+[!] https://ibid.illinois.gov/item.php?id=382412 - Not vulnerable
+[!] https://www.rentquip.com/item.php?id=158 - Not vulnerable
+[!] https://www.ln2-forum.de/index.php?thread/1338-handbremsventil-defekt/ - Not vulnerable
+[!] https://www.ihpba.org/myHPB/video-masterclass/item.php?id=874 - Not vulnerable
+[!] https://www.coinbase.com/en-au/converter/item/php - Not vulnerable
+[!] http://www.technoboard.at/lofiversion/index.php?t45197.html - Not vulnerable
+[!] https://www.czps.hlc.edu.tw/modules/tad_link/index.php?op=go&link_sn=149 - Not vulnerable
+[!] https://www.alifedesign.com.au/shop/item.php?it_id=1588143324&ca_id=1040&page=1 - Not vulnerable
+[!] http://www.stbishoy.org.au/modules/smartsection/item.php?itemid=8 - Not vulnerable
+[!] https://www.alifedesign.com.au/shop/item.php?it_id=1675728552&ca_id=1060&page=1 - Not vulnerable
+[!] https://health-select.com.au/wp-content/plugins/thrive-visual-editor/inc/backbone/content-blocks/lp-category-item.php - Not vulnerable
+[!] https://gitlab.unimelb.edu.au/resplat-data/omeka/-/blob/3bfa5b4ac70ffd0e5562c05eb404908f3611a2f0/application/models/Table/Item.php - Not vulnerable
+[!] https://www.growcareers.com.au/index.php?id=12 - Not vulnerable
+[!] https://seagrant.uaf.edu/bookstore/pubs/item.php?id=11721 - Not vulnerable
+[!] https://www.holidays.net/amore/store/item.php?itemID=325669685959 - Not vulnerable
+[!] http://www.stbishoy.org.au/modules/smartsection/item.php?itemid=8 - Not vulnerable
+[!] https://www.mrcommercialfurniture.com.au/product-item.php?item=321 - Not vulnerable
+[!] https://homecontents.com.au/index.php?c=web_cancel&profile=aami_l_a - Not vulnerable
+[!] https://ibid.illinois.gov/item.php?id=382412 - Not vulnerable
